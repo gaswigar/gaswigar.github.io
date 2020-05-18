@@ -1,6 +1,6 @@
 ---
 layout: post
-title: j!
+title: AI, Machine Learning, "Buzz Words that make you think Data Scientists do Black Magic". What actually is a data scientist?
 ---
 
 What do you think being a data scientist is about?  What do you see as the major duties and/or knowledge areas?  What differences/similarities do you see between data scientists and statisticians?  How do you view yourself in relation to these two areas?
