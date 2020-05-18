@@ -7,7 +7,7 @@ What is being a data scientist is about?  What are the major duties and/or knowl
 
 A good data scientist is a statistician, computer scientist, and a domain expert. Many data scientists are specialized in one of these domains. However, knowledge of all three is necessary to create value and insight. The first part of the data scientist role is identification and research of the problem at hand. 
 
-first part of the data scientists as a Statistician at RTI International. While I think the difference between these roles has been very heavily discussed. I would like to contrast these roles within the institution I work. As a research institution, RTI has data scientists, statisticians, survey methedologists, ….. and ….  that work along many business functions and research domains. RTI has 
+For the past year I have been working as Statistician at RTI International. While I think the difference between these roles has been very heavily discussed. I would like to contrast these roles within the institution I work. As a research institution, RTI has data scientists, statisticians, survey methedologists, ….. and is reflective of these roles within business and research. that work along many business functions and research domains. RTI has 
 •	My takeaways are generalizations that do not reflect the RTI’s beliefs nor describe the intricacies of any role or business group.
 •	Data Scientist
 o	Large and complex data types (Audio, Text, Images) are more frequently analyzed by data scientists than statistician. 
